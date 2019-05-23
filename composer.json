@@ -17,7 +17,7 @@
         "symfony/config": "~2.8 || ~3.4 || ~4.1"
     },
     "require-dev": {
-        "symfony/phpunit-bridge": "^4.0",
+        "symfony/phpunit-bridge": "~4.2.8 || ~3.4.19",
         "php-translation/symfony-bundle": "^0.8"
     },
     "autoload": {
